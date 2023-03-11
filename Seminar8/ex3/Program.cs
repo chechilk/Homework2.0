@@ -78,7 +78,7 @@ void OutputMatrix(int[,] matrix, string text)
 }
 
 /// <summary>
-/// Умножение двух матриц. + Проверка на возможность умножения
+/// Умножение двух матриц.
 /// </summary>
 /// <param name="first">Первая матрица</param>
 /// <param name="second">Вторая матрица</param>
