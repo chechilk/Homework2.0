@@ -61,7 +61,7 @@ int[,] InputMatrix(int rows, int column)
 }
 
 /// <summary>
-///  Вывод заполненного массива в консоль до перестановки
+///  Вывод заполненного массива
 /// </summary>
 /// <param name="matrix">Заполненный массив</param>
 void OutputMatrix(int[,] matrix, string text)
